@@ -9,9 +9,12 @@ alias gp='git push'
 alias gpo='git push origin'
 alias gpom='git push origin master'
 alias gc='git commit'
+alias gca='git commit -a'
+alias gcam='git commit -am'
 alias gaa='git add .'
 alias gba='git branch -a'
 alias gb='git branch'
+alias gst='git status'
 
 # SSH aliases
 alias sshka='ssh-add'
