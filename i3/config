@@ -38,8 +38,8 @@ bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
 # Personal navigation keys
-bindsynm $mod+F1 focus left
-bindsynm $mod+F2 focus right
+bindsym $mod+F1 focus left
+bindsym $mod+F2 focus right
 
 # Custom window moving keys
 bindsym $mod+Shift+Left move left
